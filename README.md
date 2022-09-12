@@ -2,7 +2,7 @@
 - 👀 Estou interessado em Desenvolvimento Web
 - 🌱 Atualmente estou aprendendo Front-end
 - 💞️ Procuro colaborar em projetos que eu possa aprender mais
-- 📫 Como chegar até mim matheuscb@msn.com
+- 📫 Como chegar até mim 
 
 
 
