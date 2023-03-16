@@ -39,8 +39,8 @@
 ### 📊 Stats:
 
 <div style="display: inline_block">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheus-cb&show_icons=true&theme=tokyonight&locale=pt-br" alt="matheus" width=400 height=167/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-cb&layout=compact&show_icons=true&locale=pt-br&theme=tokyonight" alt="matheus" width=400 height=167/>
+  <img src="https://github-readme-stats.vercel.app/api?username=matheus-cb&show_icons=true&theme=tokyonight&locale=en" alt="matheus" width=400 height=167/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-cb&layout=compact&show_icons=true&locale=en&theme=tokyonight" alt="matheus" width=400 height=167/>
 </div>
 
 📬 how to reach me matheuscb@msn.com
